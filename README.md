@@ -1,7 +1,6 @@
 # csp-status
-looking into csp adoption and directives
 
-tl;dr: Looking into how many websites have actually implemented CSP.
+tl;dr: Looking into how many top websites have actually adopted CSP.
 
 1) 90% of implementation are bypassable anyway.[1] 
 
