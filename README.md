@@ -17,8 +17,7 @@ List of CSP directives and their usage in alexa top 10,000 sites:
 
 So, actual beneficiaries of CSP - 10% of the 95 sites in alexa top 1000. Thats a handful of websites.
 
-Just looking at implementation/adoption makes me think, was making CSP a standard wise idea? 
-
+Just looking at implementation/adoption makes me think, was it really a good idea to make CSP w3c standard and advocate its usage?
 
 
 
